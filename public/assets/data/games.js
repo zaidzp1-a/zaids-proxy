@@ -12,7 +12,7 @@ var games = [
   },
   {
     id: 'funfri',
-    title: 'FunFri Games',
+    title: 'FunFri Games!',
     url: 'https://funfrinew.neocities.org/',
     image: 'https://i.ibb.co/qLPTwBV7/favicon.jpg'
   },
